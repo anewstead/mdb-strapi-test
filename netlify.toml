@@ -1,0 +1,9 @@
+[build]
+  publish = "build"
+  command = "npm run build"
+[build.environment]
+  CLOUDINARY_NAME = "et6ns4dh"
+  CLOUDINARY_KEY = "676525393646753"
+  CLOUDINARY_SECRET = "jhxZ1VlNH-LD-uOzQr_wWtxpPYY"
+  MDB_USER = "mdb-userx98"
+  MDB_PASS = "monPasQ5"
